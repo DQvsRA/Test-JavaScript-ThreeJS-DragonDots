@@ -1,0 +1,10 @@
+
+	// uglifyjs OBJLoader.js -o OBJLoader.min.js -p 5 -c -m
+	// uglifyjs MTLLoader.js -o MTLLoader.min.js -p 5 -c -m
+	// uglifyjs OBJMTLLoader.js -o OBJMTLLoader.min.js -p 5 -c -m
+	// uglifyjs WebGLRenderer3.js -o WebGLRenderer3.min.js -p 5 -c -m
+	// uglifyjs TrackballControls.js -o TrackballControls.min.js -p 5 -c -m
+	// uglifyjs SoftwareRenderer.js -o SoftwareRenderer.min.js -p 5 -c -m
+
+	// python convert_obj_three.py -i dragon_lowpoly.obj -o dragon_lowpoly.js
+	// convert_to_threejs.py dragon_lowpoly_fbx.fbx dragon_lowpoly_fbxjs -g -l
